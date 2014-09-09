@@ -1,14 +1,14 @@
 {
-    "full_name": "Ionel Cristian Mărieș",
-    "email": "contact@ionelmc.ro",
-    "website": "http://blog.ionelmc.ro",
-    "github_username": "ionelmc",
-    "project_name": "Nameless",
-    "repo_name": "python-nameless",
+	"full_name": "",
+	"email": "",
+    "website": "",
+	"github_username": "",
+    "project_name": "A Module that does things",
     "package_name": "nameless",
+    "repo_name": "alotofeffort",
     "distribution_name": "nameless",
-    "project_short_description": "An example package. Replace this with a proper project description. Generated with https://github.com/ionelmc/cookiecutter-pylibrary",
-    "release_date": "2014-06-10",
+    "project_short_description": "",
+    "release_date": "2014-08-01",
     "year": "2014",
-    "version": "0.1.0"
+    "version": "0.0.0"
 }

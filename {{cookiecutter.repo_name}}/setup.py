@@ -33,6 +33,7 @@ setup(
     zip_safe=False,
     classifiers=[
         # complete classifier list: http://pypi.python.org/pypi?%3Aaction=list_classifiers
+        'Private Package - Do Not Upload',  # this makes uploading to pypi fail
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: BSD License",
@@ -54,6 +55,7 @@ setup(
     ],
     install_requires=[
         # eg: "aspectlib==1.1.1", "six>=1.7",
+        'bumpversion',
     ],
     extras_require={
         # eg: 'rst': ["docutils>=0.11"],
